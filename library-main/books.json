@@ -1,0 +1,13 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "sdf",
+      "author": "wefr",
+      "year": 2345,
+      "is_issued": false,
+      "reader_id": 0
+    }
+  ],
+  "readers": []
+}
